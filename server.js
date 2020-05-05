@@ -20,7 +20,10 @@ const mockEvents = {
     events: [
         { title: 'an event', id: 1, description: 'something really cool' },
         { title: 'another event', id: 2, description: 'something even cooler' },
+<<<<<<< HEAD
         { title: 'Phils changes', id: 3, description: 'awesome' }
+=======
+>>>>>>> d17ff84181961944d9ae01566b58874e7aa27179
     ]
 };
 
