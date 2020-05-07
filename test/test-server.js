@@ -71,7 +71,7 @@ describe('GET /', function() {
       });
   });
 
-/*
+
   describe('POST /event/like', function() {
     it('likes an event', function(done) {
       request(app)
@@ -137,4 +137,4 @@ describe('GET /', function() {
 
 
       });
-  });*/
+  });
